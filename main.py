@@ -1,5 +1,3 @@
-from web01 import Web
+from janela import Aplicacao
 
-obj = Web()
-
-obj.abrir_site()
+jan = Aplicacao()
